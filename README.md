@@ -1,2 +1,2 @@
 # LifeScape
-A project aim to create portfolios and track daily routine
+A website platform where user can have his/her portfolio and also track his/her daily routine.
